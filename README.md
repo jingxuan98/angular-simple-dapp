@@ -1,4 +1,17 @@
-# MyDapp
+# Simple Angular DAPP
+
+1. Install prerequisites:
+   - Node.js (v12 or higher): https://nodejs.org/en/download/
+   - Angular CLI: Install it globally using `npm install -g @angular/cli`
+
+2. Create an Angular project:
+   - Run `ng new my-dapp` to create a new Angular project called "my-dapp"
+   - Change to the project directory: `cd my-dapp`
+
+3. Install dependencies:
+   - Web3.js: Interact with the Ethereum blockchain. Run `npm install web3`
+   - MetaMask Detection: Install the MetaMask Detection package by running `npm install --save @metamask/detect-provider`
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
